@@ -1,2 +1,1 @@
-# Dados
-Exercício de PDM EAD
+Exercício de PDM
